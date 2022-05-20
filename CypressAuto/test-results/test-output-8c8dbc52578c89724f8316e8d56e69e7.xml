@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="21.6490" tests="11" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-05-20T17:41:10" tests="0" file="cypress/integration/instamotion/step_def/search.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Search" timestamp="2022-05-20T17:41:10" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Filters" timestamp="2022-05-20T17:41:10" tests="5" time="10.9330" failures="0">
+    <testcase name="Search Filters User is at home page of Instamation site" time="4.7700" classname="User is at home page of Instamation site">
+    </testcase>
+    <testcase name="Search Filters User select a make" time="0.6510" classname="User select a make">
+    </testcase>
+    <testcase name="Search Filters user select a model based on selected make" time="0.9920" classname="user select a model based on selected make">
+    </testcase>
+    <testcase name="Search Filters then User clicks on button with all the searchec car" time="3.9790" classname="then User clicks on button with all the searchec car">
+    </testcase>
+    <testcase name="Search Filters User should move to next page with selected car and its model result" time="0.5410" classname="User should move to next page with selected car and its model result">
+    </testcase>
+  </testsuite>
+  <testsuite name="Auto finden" timestamp="2022-05-20T17:41:21" tests="6" time="10.7160" failures="0">
+    <testcase name="Search Auto finden User is at home page of Instamation site" time="1.7000" classname="User is at home page of Instamation site">
+    </testcase>
+    <testcase name="Search Auto finden user clicks on Auto Finden link" time="4.2080" classname="user clicks on Auto Finden link">
+    </testcase>
+    <testcase name="Search Auto finden user should move to https://www.instamotion.com/autos page" time="0.3760" classname="user should move to https://www.instamotion.com/autos page">
+    </testcase>
+    <testcase name="Search Auto finden then user select the make" time="1.7810" classname="then user select the make">
+    </testcase>
+    <testcase name="Search Auto finden then user select the model based on make" time="2.1150" classname="then user select the model based on make">
+    </testcase>
+    <testcase name="Search Auto finden user should get result based on selected filter for make and model" time="0.5360" classname="user should get result based on selected filter for make and model">
+    </testcase>
+  </testsuite>
+</testsuites>

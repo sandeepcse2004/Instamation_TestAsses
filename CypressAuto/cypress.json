@@ -1,0 +1,11 @@
+{
+    "baseUrl": "https://www.instamotion.com/",
+    "defaultCommandTimeout": 10000,
+    "viewportWidth": 1366,
+    "viewportHeight": 784,
+    "integrationFolder":"cypress/integration/instamotion/step_def",
+    "reporter": "junit",
+    "reporterOptions": {
+    "mochaFile": "test-results/test-output-[hash].xml"
+  }
+}

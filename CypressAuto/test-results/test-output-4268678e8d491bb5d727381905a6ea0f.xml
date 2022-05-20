@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="13.3820" tests="7" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-05-20T17:40:51" tests="0" file="cypress/integration/instamotion/step_def/favourite.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Add favourite" timestamp="2022-05-20T17:40:51" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="favourite using search filter" timestamp="2022-05-20T17:40:52" tests="7" time="13.3820" failures="0">
+    <testcase name="Add favourite favourite using search filter User is at home page of Instamation site" time="4.5130" classname="User is at home page of Instamation site">
+    </testcase>
+    <testcase name="Add favourite favourite using search filter User select a make" time="0.8070" classname="User select a make">
+    </testcase>
+    <testcase name="Add favourite favourite using search filter user select a model based on selected make" time="0.7050" classname="user select a model based on selected make">
+    </testcase>
+    <testcase name="Add favourite favourite using search filter when user clicks on total number of cars shown" time="4.6710" classname="when user clicks on total number of cars shown">
+    </testcase>
+    <testcase name="Add favourite favourite using search filter user should move to next page with total number of cars shown filtered by user" time="0.4610" classname="user should move to next page with total number of cars shown filtered by user">
+    </testcase>
+    <testcase name="Add favourite favourite using search filter when user add a car to favourite" time="1.5920" classname="when user add a car to favourite">
+    </testcase>
+    <testcase name="Add favourite favourite using search filter it should increase the added favourite car number" time="0.6330" classname="it should increase the added favourite car number">
+    </testcase>
+  </testsuite>
+</testsuites>
